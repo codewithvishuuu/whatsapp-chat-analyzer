@@ -60,8 +60,8 @@ The dashboard automatically processes the chat data and provides **interactive a
 ## 😀 Emoji Analysis
 ![Emoji Analysis](images/emoji_analysis.png)
 
-## 📈 User Activity Distribution
-![Active Distribution](images/active_distribution.png)
+## 📊 User Activity Distribution
+![Active Distribution](images/active%20disterbution.png)
 
 ## 🔍 Deep Dive Analytics
 ![Deep Dive](images/deepdive.png)
