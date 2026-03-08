@@ -52,29 +52,25 @@ The dashboard automatically processes the chat data and provides **interactive a
 
 ---
 
-# 🖼 Dashboard Preview
+# 🖥 Dashboard Preview
 
 ## 📊 Main Dashboard
-
 ![Dashboard](images/dashboard.png)
 
 ## 😀 Emoji Analysis
-
 ![Emoji Analysis](images/emoji_analysis.png)
 
-## ☁ WordCloud Analysis
+## 📈 User Activity Distribution
+![Active Distribution](images/active_distribution.png)
 
-![Wordcloud](images/wordcloud.png)
+## 🔍 Deep Dive Analytics
+![Deep Dive](images/deepdive.png)
 
-## 🔥 Activity Heatmap
-
-![Heatmap](images/heatmap.png)
-
-## 👥 Most Active Users
-
-![Active Users](images/active_users.png)
+## 🖥 Dashboard Inside View
+![Dashboard Inside](images/dashboard%20inside.png)
 
 ---
+
 
 # 🛠 Tech Stack
 
